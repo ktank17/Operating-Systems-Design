@@ -1,0 +1,18 @@
+/* Output File */
+Execution started
+write() function call
+ Buffer size    Elapsed time Number of function calls
+           2    5.111060e+05               655360
+          16    6.423000e+04                81920
+         128    8.039000e+03                10240
+        1024    1.124000e+03                 1280
+        8192    3.450000e+02                  160
+       65536    2.640000e+02                   20
+fwrite() function call
+ Buffer size    Elapsed time Number of function calls
+           2    1.254100e+04               655360
+          16    4.465000e+03                81920
+         128    3.432000e+03                10240
+        1024    3.806000e+03                 1280
+        8192    3.095000e+03                  160
+       65536    2.636000e+03                   20
